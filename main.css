@@ -1,0 +1,47 @@
+body{background: #efefef url(images/fonewis2.jpg); margin: 0; padding: 0;
+font: 16px/24px Arial, Tahoma, sans-serif; color: #272727;} /*#272727*/
+a{text-decoration: none;}
+
+/*Структура сайта*/
+div.mid{width: 1000px; margin: 0 auto;}
+div.header{background: #efefef url(images/panelwis3.jpg);}
+
+/*Шапка сайта*/
+div.topmenu{float: right; height: 70px; line-height: 70px;}
+div.topmenu a{margin: 0 0 0 10px; color: #1683A3;}
+div.topmenu a:hover{color: #fff;}
+div.afisha{padding: 20px 50px 0 50px; background: #efefef url(images/fonewis5.jpg) top repeat-x;}
+div.afisha img{float: left; height: 200px; width: 210px;}
+div.afisha h3{font-size: 24px; font-weight: normal; text-align: center; color: #e366d9;}
+div.afisha p{text-align: center;}
+div.afisha a{font-size: 20px; color: #fff; font-weight: bold;
+background: #c900c9; border: 1px solid #c900c9; padding: 5px 15px;
+border-radius: 3px; box-shadow: 2px 2px 7px -1px #ff00eb; text-shadow: 0px 0px 3px #ff00eb;}
+div.afisha a:hover{background: #ff00eb; border: 1px solid #ff00ce; text-shadow: 0px 0px 3px #ff00eb;}
+div.afisha h1{color: #e366d9; text-shadow: 0px 0px 1px #ff00eb;}
+
+/*Главное меню*/
+div.menu{background: url(images/Fone2.jpg); border: 1px solid #ff00ff; border-left: none; border-right: none;}
+div.menu ul{margin: 0; padding: 0; list-style: none; text-align: center; font-weight: bold;}
+div.menu ul li {display: inline-block; margin: 5px 30px;}
+div.menu ul li a{color: #d800ff; text-transform: uppercase;}
+div.menu ul li a:hover{color: #7b007b;}
+
+/*Контент сайта*/
+div.fon {background: #efefef url(images/pos.png); border: 1px solid #ccc; border-top: none; padding: 40px;}
+div.fon hr.line {border: none; border-bottom: 1px dashed #ccc; height: 0; margin: 40px;}
+div.block {width: 440px; float: left;}
+div.block:nth-of-type(even) {float: right;}
+div.block a p{color: #8401a3;}
+div.anons {background: url(images/fonewis5.jpg); border: 1px solid #ccc; border-radius: 3px; padding: 20px;}
+div.anons:hover {background: #dd6eff; border: 1px solid #bfd5dd;}
+div.anons img {box-shadow: 1px 1px 5px #e200ff;}
+div.anons h3 {font-size: 20px; font-weight: bold; margin: 20px 0 10px; padding: 0; color: #f293ff;
+line-height: 20px;}
+div.anons p {font-size: 20px; font-weight: normal; color: #f293ff;}
+div.rek {margin: 40px 0;}
+div.rek img {border: 1px solid #ccc; border-radius: 3px;}
+/*div.image-align{text-align: center;}*/
+/*div.hr {color: #6a0056;}*/
+
+div.clear{clear: both;}

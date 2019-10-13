@@ -1,0 +1,13 @@
+body{background: #efefef url(images/lapki2.jpg); margin: 0; padding: 0;
+font: 16px/24px Arial, Tahoma, sans-serif; color: #272727;} /*#272727*/
+a{text-decoration: none;}
+
+/*Структура сайта*/
+div.mid{width: 1000px; margin: 0 auto;}
+/*div.mid a{float: left;}*/
+div.header{background: #efefef url(images/lapki1.png);}
+div.header a{float: left;}
+div.header a:hover{background: #eaa3ff}
+div.afisha img{text-align: center;}
+div.fon{border: 1px solid #ccc; border-top: none; padding: 1px;}
+div.image-align{text-align: center;}
