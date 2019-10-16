@@ -1,0 +1,16 @@
+{
+"companyName": "WolfCompany",
+"productName": "War_is_sweet",
+"productVersion": "1.3",
+"dataUrl": "Wis_Build_Network_v1.7.data.unityweb",
+"wasmCodeUrl": "Wis_Build_Network_v1.7.wasm.code.unityweb",
+"wasmFrameworkUrl": "Wis_Build_Network_v1.7.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.1.0f2"
+}
